@@ -1,2 +1,1 @@
 COVID-TRACKIO
-//test
